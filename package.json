@@ -1,5 +1,5 @@
 {
-  "name": "cordova-template",
+  "name": "cordova_template_002",
   "version": "1.0.0",
   "description": "A reference for creating cordova app templates.",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/carynbear/cordova-template.git"
+    "url": "https://github.com/VyvojRSnet/cordova_template_002.git"
   },
-  "homepage": "https://github.com/carynbear/cordova-template",
+  "homepage": "https://github.com/VyvojRSnet/cordova_template_002",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
   ],
-  "author": "Caryn Tran",
+  "author": "Slavoj SANTA Hruska",
   "license": "Apache-2.0"
 }
