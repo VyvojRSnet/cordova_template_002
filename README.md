@@ -1,1 +1,1 @@
-Testovaci template pre potreby vyuky na Gymnaziu Jana Kraska RS.
+Testovaci template pre potreby vyuky na Gymnázium Ivana Kraska Rimavská Sobota.
